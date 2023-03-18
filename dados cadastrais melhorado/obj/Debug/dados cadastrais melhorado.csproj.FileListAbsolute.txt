@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\bin\Debug\dados cadastrais melhorado.exe.config
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\bin\Debug\dados cadastrais melhorado.exe
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\bin\Debug\dados cadastrais melhorado.pdb
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\obj\Debug\dados cadastrais melhorado.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\obj\Debug\dados cadastrais melhorado.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\obj\Debug\dados cadastrais melhorado.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\obj\Debug\dados cadastrais melhorado.exe
+C:\Users\pc\source\repos\dados cadastrais melhorado\dados cadastrais melhorado\obj\Debug\dados cadastrais melhorado.pdb
